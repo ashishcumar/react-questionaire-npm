@@ -1,9 +1,7 @@
-# 📝 React Questionnaire Package
+# Introduction
+Welcome to the React Questionaire Package! 🚀
 
-## Introduction
-Welcome to the React Questionnaire Package! 🚀
-
-The React Questionnaire Package is your all-in-one solution for building dynamic and interactive surveys, quizzes, feedback forms, and more within your React applications. 📊✨. It reduces developer time by simplifying the implementation of complex logic and handling error cases effectively. ⏱️🛠️
+The React Questionaire Package is your all-in-one solution for building dynamic and interactive surveys, quizzes, feedback forms, and more within your React applications. 📊✨. It reduces developer time by simplifying the implementation of complex logic and handling error cases effectively. ⏱️🛠️
 
 ## Features
 List of key features provided by the package:

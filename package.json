@@ -1,6 +1,6 @@
 {
   "name": "react-questionaire",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "The React Questionnaire Package is your all-in-one solution for building dynamic and interactive surveys, quizzes, feedback forms, and more within your React applications. 📊✨. It reduces developer time by simplifying the implementation of complex logic and handling error cases effectively. ⏱️🛠️",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
