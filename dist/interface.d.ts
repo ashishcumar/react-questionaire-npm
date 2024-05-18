@@ -6,7 +6,6 @@ export interface QUESTION {
     response_type: "bool" | "text" | "number" | "dropdown" | "textArea" | "date" | string;
     value: string | boolean | number | object | null;
     sub_ques?: QUESTION[];
-    question_for?: string[] | null;
     is_mandatory: boolean | number;
     options?: {
         label: string;
