@@ -1,15 +1,37 @@
 {
   "name": "react-questionaire",
-  "version": "0.0.3",
+  "version": "0.0.4",
+  "description": "The React Questionnaire Package is your all-in-one solution for building dynamic and interactive surveys, quizzes, feedback forms, and more within your React applications. 📊✨. It reduces developer time by simplifying the implementation of complex logic and handling error cases effectively. ⏱️🛠️",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
   "scripts": {
     "build": "npx rollup -c"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "React",
+    "Questionnaire",
+    "Survey",
+    "Form",
+    "Quiz",
+    "Feedback",
+    "Dynamic Forms",
+    "Interactive",
+    "UI Components",
+    "React Components",
+    "Form Builder",
+    "Survey Builder",
+    "Quiz Builder",
+    "User Input",
+    "Data Collection",
+    "React Hooks",
+    "Form Validation",
+    "Conditional Logic",
+    "React Library",
+    "Frontend Development"
+  ],
+  "author": "Ashish",
+  "license": "MIT",
   "description": "",
   "devDependencies": {
     "@chakra-ui/react": "^1.6.0",
@@ -33,4 +55,3 @@
     "react-dom": "^18.3.1"
   }
 }
-
